@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: gavinglorieux/gatsyb-netifly
 
 media_folder: static/assets
 
