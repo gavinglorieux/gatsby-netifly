@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: gavinglorieux/gatsyb-netifly
+  repo: gavinglorieux/gatsby-netifly
 
 media_folder: static/assets
 
