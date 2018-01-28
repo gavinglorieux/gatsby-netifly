@@ -18,4 +18,4 @@ _Some italic_
 1. one thing
 2. two things
 
-![null](/static/assets/beacon-icon-2888803_1280.png)
+![](/assets/beacon-icon-2888803_1280.png)
